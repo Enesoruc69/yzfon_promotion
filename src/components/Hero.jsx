@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+
 export default function Hero() {
   return (
     <section
@@ -9,7 +10,7 @@ export default function Hero() {
 
 
       <motion.img
-        src="/src/assets/logo2.png"
+        src="/images/logo2.png"
         alt="Bebefon Logo"
         className="w-56 h-48 mb-6"
         initial={{ scale: 0.8, opacity: 0 }}

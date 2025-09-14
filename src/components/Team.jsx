@@ -4,19 +4,19 @@ const team = [
   {
     name: "Doç. Dr. Ömer Faruk Alçin",
     role: "Danışman",
-    img: "/src/assets/ömer.jpeg",
+    img: "/images/ömer.jpeg",
     bio: "Yapay zekâ, elektronik ve biyosinyal alanında akademik danışmanlık sağlıyor.",
   },
   {
     name: "Ahmet Aygün",
     role: "Takım Kaptanı - Yazılım Mühendisi",
-    img: "/src/assets/ahmet.jpeg",
+    img: "/images/ahmet.jpeg",
     bio: "Proje planlama, yazılım geliştirme süreci yönetimi ve sistem optimizasyonundan sorumlu.",
   },
   {
     name: "Enes Oruç",
     role: "Yazılım Mühendisi",
-    img: "/src/assets/enes.png",
+    img: "/images/enes.png",
     bio: "Backend - Mobil geliştirme, IoT entegrasyonu ve sistem optimizasyonu üzerine çalışıyor.",
   },
  
